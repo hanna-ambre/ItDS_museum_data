@@ -6,6 +6,6 @@ Then run the 'Separating original trainset and testset' section to separate the 
 
 To test different models with validation data and create the variable for the model, run the next part titled 'Creating validation set and using it to find the best model'.
 
-Finally, to create the model and prediction csv-file, run the 'Training on the whole trainset' section.
+Finally, to test the model on the test dataset and create the prediction csv-file, run the 'Training on the whole trainset' section.
 
 The last part of the code (in the 'code to tune the hyperparameters for decision tree and random forest' section) shows what we did to tune the hyperparameters.
