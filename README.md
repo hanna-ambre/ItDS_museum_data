@@ -4,6 +4,6 @@ Firstly, run the imports cell and the cells in the 'Read data from files and pre
 
 Then run the 'Separating original trainset and testset' section to separate the traintest dataset into the train and test datasets and to get a list of all of the columns, excluding 'type'.
 
-To test different models with validation data, run the next part titled 'Creating validation set and using it to find the best model and create the variable for the model.
+To test different models with validation data and create the variable for the model, run the next part titled 'Creating validation set and using it to find the best model'.
 
 Finally, to create the model and prediction csv-file, run the 'Training on the whole trainset' section.
